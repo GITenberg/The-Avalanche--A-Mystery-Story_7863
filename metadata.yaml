@@ -1,5 +1,8 @@
 _repo: The-Avalanche--A-Mystery-Story_7863
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Atherton, Gertrude Franklin Horn
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
 description: A romance and mystery story of San Francisco in the period following
   the fire of 1906.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7863#The-Avalanche--A-Mystery-Story
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2004-06-30'
 gutenberg_type: Text
